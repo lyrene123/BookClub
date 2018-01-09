@@ -1,0 +1,67 @@
+﻿@model IEnumerable<BookClubApp.Models.Book>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+@if (User.Identity.IsAuthenticated)
+{
+    <header>
+        <h2> Welcome @User.Identity.Name</h2>
+        <h2>Recommended Books For You</h2>
+    </header>
+}
+else
+{
+    <header>
+        <h2>Top Ten Most Reviewed Books</h2>
+    </header>
+}
+
+<p>
+    @if (User.Identity.IsAuthenticated)
+    {
+        @Html.ActionLink("Log out", "Logout", "Account")
+    }
+    else
+    {
+        @Html.ActionLink("Log In", "Login", "Account") <span> | </span>
+        @Html.ActionLink("Register", "Register", "Account")
+    }
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Title)
+        </th>
+        <th>
+            Number of Reviews
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @item.Reviews.Count()
+            </td>
+            <td>
+                @Html.ActionLink("Details", "Details", new { id = item.BookId })
+            </td>
+        </tr>
+    }
+
+</table>
+
+<div>
+@if (User.Identity.IsAuthenticated)
+{
+    @Html.ActionLink("Add a new book", "Create", "Home") <span> | </span>
+    @Html.ActionLink("Add a new author", "CreateAuthor", "Home")
+}
+</div>
+

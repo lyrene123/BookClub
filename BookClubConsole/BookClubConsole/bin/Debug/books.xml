@@ -1,0 +1,278 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<books>
+  <book id="0">
+    <title>The Hitchhiker's Guide To The Galaxy</title>
+    <description>It's an ordinary Thursday lunchtime for Arthur Dent until his house gets demolished. The Earth follows shortly afterwards to make way for a new hyperspace bypass and his best friend has just announced that he's an alien.</description>
+    <author lastName="Adams" firstName="Douglas" />
+  </book>
+  <book id="1">
+    <title>Watership Down</title>
+    <description>Set in southern England, the story features a small group of rabbits.</description>
+    <author lastName="Adams" firstName="Richard" />
+  </book>
+  <book id="2">
+    <title>The Five People You Meet in Heaven</title>
+    <description>It follows the life and death of a maintenance man named Eddie.</description>
+    <author lastName="Albom" firstName="Mitch" />
+  </book>
+  <book id="3">
+    <title>Speak</title>
+    <description>After accidentally busting an end-of-summer party due to an unnamed incident, Melinda is ostracized by her peers because she will not say why she called the police.</description>
+    <author lastName="Halse Anderson" firstName="Laurie" />
+  </book>
+  <book id="4">
+    <title>I Know Why the Caged Bird Sings</title>
+    <description>A coming-of-age story that illustrates how strength of character and a love of literature can help overcome racism and trauma.</description>
+    <author lastName="Angelou" firstName="Maya" />
+  </book>
+  <book id="5">
+    <title>Thirteen Reasons Why</title>
+    <description>Clay Jensen, a shy high school student, returns home from school one day to find that he has received a mysterious package in the mail.</description>
+    <author lastName="Asher" firstName="Jay" />
+  </book>
+  <book id="6">
+    <title>Foundation Series</title>
+    <description>The premise of the series is that the mathematician Hari Seldon spent his life developing a branch of mathematics known as psychohistory, a concept of mathematical sociology.</description>
+    <author lastName="Asimov" firstName="Isaac" />
+  </book>
+  <book id="7">
+    <title>The Sisterhood of the Travelling Pants</title>
+    <description>Four best friends spend their first summer apart and keep in touch with each other by mailing each other a pair of jeans which, despite their varying body shapes, magically fit them all perfectly.</description>
+    <author lastName="Brashares" firstName="Ann" />
+  </book>
+  <book id="8">
+    <title>A Great and Terrible Beauty</title>
+    <description>Gemma leaves her home in India to go to a boarding school in England after her mother dies. Once there, she is plagued by clairvoyant visions as she looks into the magical secrets of the school</description>
+    <author lastName="Bray" firstName="Libba" />
+  </book>
+  <book id="9">
+    <title>The Da Vinci Code</title>
+    <description>The curator of the Louvre is murdered, leaving behind a chain of obscure clues to a world-changing secret.</description>
+    <author lastName="Brown" firstName="Dan" />
+  </book>
+  <book id="10">
+    <title>The Princess Diaries</title>
+    <description>An ordinary girl suddenly finds out that she is, in fact, a princess.</description>
+    <author lastName="Cabot" firstName="Meg" />
+  </book>
+  <book id="11">
+    <title>Ender's Game</title>
+    <description>Set in Earth's future, the novel presents an imperiled mankind after two conflicts with the "buggers", an insectoid alien species.</description>
+    <author lastName="Scott Card" firstName="Orson" />
+  </book>
+  <book id="12">
+    <title>The Hunt for Red October</title>
+    <description>In 1984, the USSR's best submarine captain in their newest sub violates orders and heads for the USA. Is he trying to defect, or to start a war?</description>
+    <author lastName="Clancy" firstName="Tom" />
+  </book>
+  <book id="13">
+    <title>The Hunger Games</title>
+    <description>A dystopia set in Panem, a country consisting of the wealthy Capitol and 12 districts in varying states of poverty. Every year, children from the districts are selected to participate in a compulsory annual televised death match.</description>
+    <author lastName="Collins" firstName="Suzanne" />
+  </book>
+  <book id="14">
+    <title>The Great Gatsby</title>
+    <description>The story primarily concerns the young and mysterious millionaire Jay Gatsby and his quixotic passion and obsession for the beautiful former debutante Daisy Buchanan.</description>
+    <author lastName="Fitzgerald" firstName="F.Scott" />
+  </book>
+  <book id="15">
+    <title>Ranger's Apprentice Series</title>
+    <description>The series follows the adventures of Will, an orphan who is taken as an apprentice Ranger, as he strives to keep the Kingdom of Araluen safe from invaders, traitors, and threats.</description>
+    <author lastName="Flanagan" firstName="John" />
+  </book>
+  <book id="16">
+    <title>Inkheart</title>
+    <description>Meggie, a girl at the age of 12, sees a stranger staring at her outside her window and tells her father, who invites the stranger in.</description>
+    <author lastName="Funke" firstName="Cornelia" />
+  </book>
+  <book id="17">
+    <title>Neuromancer</title>
+    <description>Henry Dorsett Case is a low-level hustler in the dystopian underworld of Chiba City, Japan.</description>
+    <author lastName="Gibson" firstName="William" />
+  </book>
+  <book id="18">
+    <title>Lord of the Flies</title>
+    <description>The book's premise focuses on a group of British boys stranded on an uninhabited island and their attempt to govern themselves, with disastrous results.</description>
+    <author lastName="Golding" firstName="William" />
+  </book>
+  <book id="19">
+    <title>The Princess Bride</title>
+    <description>A pirate sets out to rescue his childhood sweetheart from a gang of kidnappers and an evil prince.</description>
+    <author lastName="Goldman" firstName="William" />
+  </book>
+  <book id="20">
+    <title>Dinotopia: A Land Apart from Time</title>
+    <description>Dinotopia is an isolated island inhabited by shipwrecked humans and sentient dinosaurs who have learned to coexist peacefully as a single symbiotic society.</description>
+    <author lastName="Gurney" firstName="James" />
+  </book>
+  <book id="21">
+    <title>Far North</title>
+    <description>What began as a sightseeing detour turns into a survival mission for two high-school students and their elderly companion.</description>
+    <author lastName="Hobbs" firstName="Will" />
+  </book>
+  <book id="22">
+    <title>Practical Magic</title>
+    <description>For more than two hundred years, the Owens women have been blamed for everything that has gone wrong in their Massachusetts town.</description>
+    <author lastName="Hoffman" firstName="Alice" />
+  </book>
+  <book id="23">
+    <title>Brave New World</title>
+    <description>Set in London in the year AD 2540, the novel anticipates developments in reproductive technology, sleep-learning, psychological manipulation, and classical conditioning that combine profoundly to change society.</description>
+    <author lastName="Huxley" firstName="Aldous" />
+  </book>
+  <book id="24">
+    <title>The Summer Tree</title>
+    <description>The five main characters attend a lecture by a Professor Lorenzo Marcus, who afterwards reveals to them that he is in reality Loren Silvercloak, a mage from the land of Fionavar.</description>
+    <author lastName="Kay" firstName="GuyGavriel" />
+  </book>
+  <book id="25">
+    <title>Flowers For Algernon</title>
+    <description>Flowers for Algernon is the beloved, classic story of a mentally disabled man whose experimental quest for intelligence mirrors that of Algernon, an extraordinary lab mouse.</description>
+    <author lastName="Keyes" firstName="Daniel" />
+  </book>
+  <book id="26">
+    <title>Owl in Love</title>
+    <description>Part bird of prey, part teenage girl in love, and now part stalker, Owl Tycho's life is complicated.</description>
+    <author lastName="Kindl" firstName="Patrice" />
+  </book>
+  <book id="27">
+    <title>Naruto</title>
+    <description>It tells the story of Naruto Uzumaki, an adolescent ninja who searches constantly for recognition and dreams of becoming the Hokage, the ninja in his village who is acknowledged as the leader and the strongest of all.</description>
+    <author lastName="Kishimoto" firstName="Masashi" />
+  </book>
+  <book id="28">
+    <title>Bleach (graphic novel)</title>
+    <description>Bleach follows the adventures of the hotheaded teenager Ichigo Kurosaki who inherits his parents destiny, after he obtains the powers of a Soul Reaper.</description>
+    <author lastName="Kubo" firstName="Tite" />
+  </book>
+  <book id="29">
+    <title>Kiss the Dust</title>
+    <description>A novel on the conflicts between the Kurds and the then Saddam Hussein-led Iraqis.</description>
+    <author lastName="Laird" firstName="Elizabeth" />
+  </book>
+  <book id="30">
+    <title>To Kill a Mockingbird</title>
+    <description>The narrator's father, Atticus Finch, has served as a moral hero for many readers and as a model of integrity for lawyers.</description>
+    <author lastName="Lee" firstName="Harper" />
+  </book>
+  <book id="31">
+    <title>The Lion the Witch and the Wardrobe</title>
+    <description>It's the first published and best known of seven novels in The Chronicles of Narnia.</description>
+    <author lastName="Lewis" firstName="C.S." />
+  </book>
+  <book id="32">
+    <title>The Bourne Series</title>
+    <description>A series of action spy thrillers based on the character Jason Bourne, a CIA assassin suffering from extreme memory loss who must figure out who he is.</description>
+    <author lastName="Ludlum" firstName="Robert" />
+  </book>
+  <book id="33">
+    <title>Life of Pi</title>
+    <description>A teenage boy faces a fight for survival when he is stranded aboard a lifeboat with a Bengal tiger.</description>
+    <author lastName="Martel" firstName="Yann" />
+  </book>
+  <book id="34">
+    <title>Breathless</title>
+    <description>Travis Morrison is a champion diver. On the first day of summer vacation, while boating on the lake with his friends, Travis attempts a silly stunt dive that goes wrong.</description>
+    <author lastName="McDaniel" firstName="Lurlene" />
+  </book>
+  <book id="35">
+    <title>Twilight Series</title>
+    <description>Twilight is a series of four vampire-themed fantasy romance novels.</description>
+    <author lastName="Meyer" firstName="Stephenie" />
+  </book>
+  <book id="36">
+    <title>Sabriel</title>
+    <description>The novel is set in two neighbouring fictional countries: To the South lies Ancelstierre, which has a technology level and society similar to that of early-20th century, and to the North lies the Old Kingdom, where both Free magic and Charter Magic exist.</description>
+    <author lastName="Nix" firstName="Garth" />
+  </book>
+  <book id="37">
+    <title>Nineteen Eighty-Four (1984)</title>
+    <description>The novel is set in Airstrip One, a province of the superstate Oceania in a world of perpetual war, omnipresent government surveillance, and public manipulation.</description>
+    <author lastName="Orwell" firstName="George" />
+  </book>
+  <book id="38">
+    <title>Eragon</title>
+    <description>Fifteen-year-old Eragon believes that he is merely a poor farm boy- until his destiny as a Dragon Rider is revealed.</description>
+    <author lastName="Paolini" firstName="Christopher" />
+  </book>
+  <book id="39">
+    <title>Hatchet</title>
+    <description>As thirteen-year-old Brian Robeson travels from Hampton, New York on a Cessna 406 bush plane to visit his father in the oil fields in Northern Canada for the summer, the pilot suffers a massive heart attack and dies.</description>
+    <author lastName="Paulsen" firstName="Gary" />
+  </book>
+  <book id="40">
+    <title>My Sister's Keeper</title>
+    <description>The idyllic family life of Sara and Brian is torn apart when their young daughter falls ill and needs a compatible bone-marrow donor.</description>
+    <author lastName="Picoult" firstName="Jodi" />
+  </book>
+  <book id="41">
+    <title>The Golden Compass</title>
+    <description>A young girl embarks on a perilous journey to rescue her best friend and fight the forces of darkness.</description>
+    <author lastName="Pullman" firstName="Philip" />
+  </book>
+  <book id="42">
+    <title>Harry Potter Series</title>
+    <description>The novels chronicle the life of a young wizard, Harry Potter, and his friends Hermione Granger and Ron Weasley, all of whom are students at Hogwarts School of Witchcraft and Wizardry.</description>
+    <author lastName="Rowling" firstName="J.K." />
+  </book>
+  <book id="43">
+    <title>Holes</title>
+    <description>The boys are digging holes because the warden is looking for something. But what could be buried under a dried-up lake?</description>
+    <author lastName="Sachar" firstName="Louis" />
+  </book>
+  <book id="44">
+    <title>Shonen Jump Series</title>
+    <description>There are currently twenty-one manga titles being serialized in Weekly Shonen Jump.</description>
+    <author lastName="Shueisha" />
+  </book>
+  <book id="45">
+    <title>The Shadow Club</title>
+    <description>Two middle school students, Jared Mercer and Cheryl Gannett, see themselves as the "second best" students in their school at the activities that they do best, and find the worst possible way to get revenge on those better than them.</description>
+    <author lastName="Shusterman" firstName="Neil" />
+  </book>
+  <book id="46">
+    <title>Bone Series</title>
+    <description>The comic book series centers on the Bone cousins, white, bald cartoon caricatures</description>
+    <author lastName="Smith" firstName="Jeff" />
+  </book>
+  <book id="47">
+    <title>Maus: A Survivor's Tale</title>
+    <description>A graphice novel that depicts the author interviewing his father about his experiences as a Polish Jew and Holocaust survivor.</description>
+    <author lastName="Spiegelman" firstName="Art" />
+  </book>
+  <book id="48">
+    <title>The Joy Luck Club</title>
+    <description>Bestseller about four immigrant Chinese women and their American-born daughters.</description>
+    <author lastName="Tan" firstName="Amy" />
+  </book>
+  <book id="49">
+    <title>The Lord of the Rings</title>
+    <description>Epic fantasy novel set in Middle Earth.</description>
+    <author lastName="Tolkien" firstName="J.R.R." />
+  </book>
+  <book id="50">
+    <title>The Hobbit</title>
+    <description>Fantasy novel that follows the quest of home-loving hobbit Bilbo Baggins.</description>
+    <author lastName="Tolkien" firstName="J.R.R." />
+  </book>
+  <book id="51">
+    <title>Shattered</title>
+    <description>In order to pass social studies, fifteen-year-old Ian must complete community volunteer service. Choosing to work at "The Club” sounds like fun, until he arrives at what turns out to be a soup kitchen for the homeless in an unsafe part of the city.</description>
+    <author lastName="Walters" firstName="Eric" />
+  </book>
+  <book id="52">
+    <title>The War Of The Worlds</title>
+    <description>One of the earliest stories that detail a conflict between mankind and an extraterrestrial race.</description>
+    <author lastName="Wells" firstName="H.G." />
+  </book>
+  <book id="53">
+    <title>Dealing with Dragons</title>
+    <description>Princess Cimorene escapes her tediously ordinary family to be a dragon's princess.</description>
+    <author lastName="Wrede" firstName="Patricia-C." />
+  </book>
+  <book id="54">
+    <title>The Chrysalids</title>
+    <description>An undetermined number of years into the future, post-apocalypse rural Labrador has become a warmer and more hospitable place than it is at present.</description>
+    <author lastName="Wyndham" firstName="John" />
+  </book>
+</books>

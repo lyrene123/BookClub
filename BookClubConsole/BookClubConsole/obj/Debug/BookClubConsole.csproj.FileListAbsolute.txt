@@ -1,0 +1,16 @@
+F:\c# assignments\Assignment3\BookClubConsole\BookClubConsole\bin\Debug\BookClubConsole.exe.config
+F:\c# assignments\Assignment3\BookClubConsole\BookClubConsole\bin\Debug\BookClubConsole.exe
+F:\c# assignments\Assignment3\BookClubConsole\BookClubConsole\bin\Debug\BookClubConsole.pdb
+F:\c# assignments\Assignment3\BookClubConsole\BookClubConsole\bin\Debug\EntityFramework.dll
+F:\c# assignments\Assignment3\BookClubConsole\BookClubConsole\bin\Debug\EntityFramework.SqlServer.dll
+F:\c# assignments\Assignment3\BookClubConsole\BookClubConsole\bin\Debug\EntityFramework.xml
+F:\c# assignments\Assignment3\BookClubConsole\BookClubConsole\bin\Debug\EntityFramework.SqlServer.xml
+F:\c# assignments\Assignment3\BookClubConsole\BookClubConsole\obj\Debug\BookClubConsole.csprojResolveAssemblyReference.cache
+F:\c# assignments\Assignment3\BookClubConsole\BookClubConsole\obj\Debug\BookClubConsole.exe
+F:\c# assignments\Assignment3\BookClubConsole\BookClubConsole\obj\Debug\BookClubConsole.pdb
+E:\c# assignments\Assignment3\BookClubConsole\BookClubConsole\bin\Debug\BookClubConsole.exe.config
+E:\c# assignments\Assignment3\BookClubConsole\BookClubConsole\obj\Debug\BookClubConsole.exe
+E:\c# assignments\Assignment3\BookClubConsole\BookClubConsole\obj\Debug\BookClubConsole.pdb
+I:\c# assignments\Assignment3\BookClubConsole\BookClubConsole\bin\Debug\BookClubConsole.exe.config
+I:\c# assignments\Assignment3\BookClubConsole\BookClubConsole\obj\Debug\BookClubConsole.exe
+I:\c# assignments\Assignment3\BookClubConsole\BookClubConsole\obj\Debug\BookClubConsole.pdb

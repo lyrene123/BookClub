@@ -1,0 +1,1271 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<userReviews>
+  <user userId="Ben" lastName="Reader">
+    <review bookId="0" rating="5" />
+    <review bookId="7" rating="0" />
+    <review bookId="9" rating="0" />
+    <review bookId="10" rating="-3" />
+    <review bookId="11" rating="5" />
+    <review bookId="15" rating="5" />
+    <review bookId="16" rating="5" />
+    <review bookId="21" rating="5" />
+    <review bookId="30" rating="0" />
+    <review bookId="31" rating="3" />
+    <review bookId="33" rating="0" />
+    <review bookId="35" rating="-5" />
+    <review bookId="38" rating="5" />
+    <review bookId="39" rating="5" />
+    <review bookId="41" rating="5" />
+    <review bookId="42" rating="5" />
+    <review bookId="43" rating="5" />
+    <review bookId="45" rating="5" />
+    <review bookId="46" rating="5" />
+    <review bookId="50" rating="5" />
+    <review bookId="51" rating="5" />
+    <review bookId="52" rating="5" />
+    <review bookId="53" rating="5" />
+    <review bookId="54" rating="-5" />
+  </user>
+  <user userId="Moose" lastName="Reader">
+    <review bookId="0" rating="5" />
+    <review bookId="1" rating="5" />
+    <review bookId="6" rating="3" />
+    <review bookId="9" rating="0" />
+    <review bookId="11" rating="5" />
+    <review bookId="12" rating="3" />
+    <review bookId="14" rating="5" />
+    <review bookId="16" rating="3" />
+    <review bookId="17" rating="3" />
+    <review bookId="18" rating="5" />
+    <review bookId="24" rating="5" />
+    <review bookId="30" rating="3" />
+    <review bookId="31" rating="5" />
+    <review bookId="37" rating="5" />
+    <review bookId="38" rating="-3" />
+    <review bookId="42" rating="5" />
+    <review bookId="49" rating="5" />
+    <review bookId="50" rating="5" />
+    <review bookId="52" rating="3" />
+  </user>
+  <user userId="Reuven" lastName="Reader">
+    <review bookId="0" rating="5" />
+    <review bookId="1" rating="-5" />
+    <review bookId="6" rating="-3" />
+    <review bookId="7" rating="-5" />
+    <review bookId="9" rating="0" />
+    <review bookId="10" rating="-5" />
+    <review bookId="11" rating="5" />
+    <review bookId="13" rating="0" />
+    <review bookId="15" rating="0" />
+    <review bookId="16" rating="-3" />
+    <review bookId="17" rating="0" />
+    <review bookId="18" rating="-5" />
+    <review bookId="25" rating="3" />
+    <review bookId="30" rating="-5" />
+    <review bookId="31" rating="0" />
+    <review bookId="33" rating="0" />
+    <review bookId="35" rating="-5" />
+    <review bookId="37" rating="3" />
+    <review bookId="38" rating="-3" />
+    <review bookId="39" rating="3" />
+    <review bookId="41" rating="0" />
+    <review bookId="42" rating="5" />
+    <review bookId="43" rating="0" />
+    <review bookId="49" rating="0" />
+    <review bookId="50" rating="3" />
+    <review bookId="51" rating="0" />
+    <review bookId="52" rating="5" />
+    <review bookId="53" rating="0" />
+    <review bookId="54" rating="3" />
+  </user>
+  <user userId="Cust1" lastName="Reader">
+    <review bookId="0" rating="3" />
+    <review bookId="1" rating="3" />
+    <review bookId="2" rating="5" />
+    <review bookId="6" rating="3" />
+    <review bookId="9" rating="3" />
+    <review bookId="11" rating="3" />
+    <review bookId="17" rating="3" />
+    <review bookId="19" rating="5" />
+    <review bookId="23" rating="0" />
+    <review bookId="24" rating="3" />
+    <review bookId="25" rating="0" />
+    <review bookId="31" rating="3" />
+    <review bookId="33" rating="3" />
+    <review bookId="37" rating="0" />
+    <review bookId="38" rating="3" />
+    <review bookId="41" rating="3" />
+    <review bookId="42" rating="3" />
+    <review bookId="46" rating="5" />
+    <review bookId="49" rating="3" />
+    <review bookId="50" rating="0" />
+  </user>
+  <user userId="Cust2" lastName="Reader">
+    <review bookId="0" rating="3" />
+    <review bookId="18" rating="0" />
+    <review bookId="31" rating="5" />
+    <review bookId="37" rating="3" />
+    <review bookId="38" rating="0" />
+    <review bookId="42" rating="3" />
+    <review bookId="46" rating="3" />
+    <review bookId="48" rating="3" />
+    <review bookId="49" rating="3" />
+    <review bookId="50" rating="5" />
+    <review bookId="52" rating="3" />
+    <review bookId="54" rating="3" />
+  </user>
+  <user userId="Francois" lastName="Reader">
+    <review bookId="0" rating="3" />
+    <review bookId="1" rating="3" />
+    <review bookId="2" rating="5" />
+    <review bookId="6" rating="3" />
+    <review bookId="9" rating="3" />
+    <review bookId="11" rating="3" />
+    <review bookId="17" rating="3" />
+    <review bookId="19" rating="5" />
+    <review bookId="23" rating="0" />
+    <review bookId="24" rating="3" />
+    <review bookId="25" rating="0" />
+    <review bookId="31" rating="3" />
+    <review bookId="33" rating="3" />
+    <review bookId="37" rating="0" />
+    <review bookId="38" rating="3" />
+    <review bookId="41" rating="3" />
+    <review bookId="42" rating="3" />
+    <review bookId="46" rating="5" />
+    <review bookId="49" rating="3" />
+    <review bookId="50" rating="0" />
+  </user>
+  <user userId="Jim" lastName="C">
+    <review bookId="0" rating="5" />
+    <review bookId="1" rating="3" />
+    <review bookId="6" rating="3" />
+    <review bookId="14" rating="0" />
+    <review bookId="23" rating="3" />
+    <review bookId="25" rating="3" />
+    <review bookId="31" rating="5" />
+    <review bookId="33" rating="5" />
+    <review bookId="48" rating="3" />
+    <review bookId="49" rating="3" />
+    <review bookId="50" rating="3" />
+  </user>
+  <user userId="Iren" lastName="Reader">
+    <review bookId="16" rating="0" />
+    <review bookId="27" rating="5" />
+    <review bookId="31" rating="0" />
+    <review bookId="35" rating="0" />
+    <review bookId="38" rating="5" />
+    <review bookId="42" rating="5" />
+    <review bookId="43" rating="3" />
+    <review bookId="44" rating="5" />
+    <review bookId="49" rating="5" />
+    <review bookId="50" rating="3" />
+    <review bookId="52" rating="3" />
+    <review bookId="54" rating="-5" />
+  </user>
+  <user userId="Cust3" lastName="Reader">
+    <review bookId="3" rating="-3" />
+    <review bookId="16" rating="3" />
+    <review bookId="27" rating="5" />
+    <review bookId="28" rating="5" />
+    <review bookId="38" rating="0" />
+    <review bookId="39" rating="0" />
+    <review bookId="41" rating="-3" />
+    <review bookId="42" rating="5" />
+    <review bookId="43" rating="3" />
+    <review bookId="46" rating="0" />
+    <review bookId="50" rating="0" />
+  </user>
+  <user userId="Cust4" lastName="Reader">
+    <review bookId="7" rating="5" />
+    <review bookId="35" rating="5" />
+    <review bookId="38" rating="-5" />
+    <review bookId="41" rating="-5" />
+    <review bookId="42" rating="5" />
+    <review bookId="50" rating="-3" />
+    <review bookId="54" rating="-3" />
+  </user>
+  <user userId="Cust5" lastName="Reader">
+    <review bookId="1" rating="-3" />
+    <review bookId="25" rating="3" />
+    <review bookId="30" rating="5" />
+    <review bookId="31" rating="3" />
+    <review bookId="37" rating="5" />
+    <review bookId="39" rating="3" />
+    <review bookId="41" rating="3" />
+    <review bookId="42" rating="5" />
+    <review bookId="43" rating="3" />
+    <review bookId="47" rating="3" />
+    <review bookId="49" rating="5" />
+    <review bookId="50" rating="5" />
+    <review bookId="53" rating="5" />
+  </user>
+  <user userId="Cust6" lastName="Reader">
+    <review bookId="0" rating="0" />
+    <review bookId="1" rating="0" />
+    <review bookId="2" rating="3" />
+    <review bookId="3" rating="3" />
+    <review bookId="4" rating="-3" />
+    <review bookId="5" rating="3" />
+    <review bookId="6" rating="3" />
+    <review bookId="7" rating="5" />
+    <review bookId="8" rating="5" />
+    <review bookId="9" rating="5" />
+    <review bookId="10" rating="5" />
+    <review bookId="11" rating="0" />
+    <review bookId="12" rating="3" />
+    <review bookId="13" rating="0" />
+    <review bookId="14" rating="0" />
+    <review bookId="16" rating="5" />
+    <review bookId="18" rating="3" />
+    <review bookId="35" rating="3" />
+    <review bookId="36" rating="3" />
+    <review bookId="38" rating="3" />
+    <review bookId="40" rating="3" />
+    <review bookId="41" rating="5" />
+    <review bookId="42" rating="5" />
+    <review bookId="43" rating="5" />
+    <review bookId="45" rating="-3" />
+    <review bookId="52" rating="3" />
+    <review bookId="53" rating="0" />
+    <review bookId="54" rating="0" />
+  </user>
+  <user userId="Cust7" lastName="Reader">
+    <review bookId="11" rating="5" />
+    <review bookId="27" rating="0" />
+    <review bookId="28" rating="-3" />
+    <review bookId="31" rating="5" />
+    <review bookId="32" rating="5" />
+    <review bookId="35" rating="5" />
+    <review bookId="38" rating="3" />
+    <review bookId="42" rating="5" />
+    <review bookId="52" rating="5" />
+    <review bookId="54" rating="5" />
+  </user>
+  <user userId="Cust8" lastName="Reader">
+    <review bookId="0" rating="3" />
+    <review bookId="3" rating="5" />
+    <review bookId="7" rating="5" />
+    <review bookId="9" rating="5" />
+    <review bookId="10" rating="3" />
+    <review bookId="16" rating="3" />
+    <review bookId="18" rating="5" />
+    <review bookId="19" rating="5" />
+    <review bookId="28" rating="5" />
+    <review bookId="30" rating="5" />
+    <review bookId="31" rating="5" />
+    <review bookId="32" rating="3" />
+    <review bookId="35" rating="5" />
+    <review bookId="38" rating="5" />
+    <review bookId="39" rating="5" />
+    <review bookId="40" rating="5" />
+    <review bookId="41" rating="3" />
+    <review bookId="42" rating="5" />
+    <review bookId="43" rating="5" />
+    <review bookId="46" rating="5" />
+    <review bookId="49" rating="5" />
+    <review bookId="50" rating="5" />
+    <review bookId="52" rating="5" />
+    <review bookId="54" rating="5" />
+  </user>
+  <user userId="Cust9" lastName="Reader">
+    <review bookId="0" rating="5" />
+    <review bookId="6" rating="3" />
+    <review bookId="11" rating="3" />
+    <review bookId="18" rating="0" />
+    <review bookId="25" rating="5" />
+    <review bookId="30" rating="0" />
+    <review bookId="49" rating="-3" />
+    <review bookId="54" rating="3" />
+  </user>
+  <user userId="andrew" lastName="Reader">
+    <review bookId="0" rating="3" />
+    <review bookId="1" rating="3" />
+    <review bookId="2" rating="0" />
+    <review bookId="4" rating="3" />
+    <review bookId="6" rating="3" />
+    <review bookId="9" rating="-3" />
+    <review bookId="11" rating="5" />
+    <review bookId="12" rating="3" />
+    <review bookId="14" rating="0" />
+    <review bookId="17" rating="5" />
+    <review bookId="18" rating="3" />
+    <review bookId="23" rating="0" />
+    <review bookId="25" rating="3" />
+    <review bookId="27" rating="0" />
+    <review bookId="30" rating="3" />
+    <review bookId="31" rating="5" />
+    <review bookId="32" rating="3" />
+    <review bookId="33" rating="3" />
+    <review bookId="37" rating="5" />
+    <review bookId="39" rating="5" />
+    <review bookId="41" rating="3" />
+    <review bookId="42" rating="3" />
+    <review bookId="44" rating="-3" />
+    <review bookId="47" rating="5" />
+    <review bookId="48" rating="0" />
+    <review bookId="49" rating="5" />
+    <review bookId="50" rating="3" />
+    <review bookId="52" rating="3" />
+  </user>
+  <user userId="ma" lastName="Reader">
+    <review bookId="4" rating="5" />
+    <review bookId="9" rating="3" />
+    <review bookId="18" rating="-3" />
+    <review bookId="23" rating="-3" />
+    <review bookId="31" rating="3" />
+    <review bookId="33" rating="3" />
+    <review bookId="37" rating="-3" />
+    <review bookId="42" rating="3" />
+    <review bookId="49" rating="-3" />
+    <review bookId="50" rating="-3" />
+  </user>
+  <user userId="matt" lastName="c">
+    <review bookId="1" rating="3" />
+    <review bookId="9" rating="5" />
+    <review bookId="11" rating="5" />
+    <review bookId="14" rating="-3" />
+    <review bookId="15" rating="5" />
+    <review bookId="18" rating="0" />
+    <review bookId="21" rating="3" />
+    <review bookId="24" rating="3" />
+    <review bookId="30" rating="0" />
+    <review bookId="31" rating="3" />
+    <review bookId="32" rating="3" />
+    <review bookId="38" rating="5" />
+    <review bookId="42" rating="5" />
+    <review bookId="43" rating="3" />
+    <review bookId="45" rating="3" />
+    <review bookId="49" rating="5" />
+    <review bookId="50" rating="5" />
+    <review bookId="51" rating="3" />
+  </user>
+  <user userId="Ocelot" lastName="Reader">
+    <review bookId="0" rating="5" />
+    <review bookId="1" rating="0" />
+    <review bookId="11" rating="5" />
+    <review bookId="14" rating="3" />
+    <review bookId="17" rating="5" />
+    <review bookId="18" rating="3" />
+    <review bookId="23" rating="3" />
+    <review bookId="25" rating="0" />
+    <review bookId="26" rating="0" />
+    <review bookId="30" rating="3" />
+    <review bookId="31" rating="3" />
+    <review bookId="33" rating="5" />
+    <review bookId="35" rating="-3" />
+    <review bookId="37" rating="3" />
+    <review bookId="41" rating="5" />
+    <review bookId="42" rating="3" />
+    <review bookId="50" rating="3" />
+    <review bookId="52" rating="0" />
+  </user>
+  <user userId="Cust10" lastName="Reader">
+    <review bookId="0" rating="5" />
+    <review bookId="4" rating="0" />
+    <review bookId="9" rating="-5" />
+    <review bookId="11" rating="5" />
+    <review bookId="17" rating="3" />
+    <review bookId="18" rating="-3" />
+    <review bookId="19" rating="3" />
+    <review bookId="23" rating="5" />
+    <review bookId="25" rating="5" />
+    <review bookId="30" rating="3" />
+    <review bookId="31" rating="3" />
+    <review bookId="33" rating="5" />
+    <review bookId="37" rating="5" />
+    <review bookId="42" rating="3" />
+    <review bookId="47" rating="5" />
+  </user>
+  <user userId="crom" lastName="Reader">
+    <review bookId="2" rating="3" />
+    <review bookId="9" rating="-3" />
+    <review bookId="14" rating="5" />
+    <review bookId="18" rating="5" />
+    <review bookId="30" rating="5" />
+    <review bookId="37" rating="5" />
+    <review bookId="49" rating="3" />
+    <review bookId="50" rating="3" />
+  </user>
+  <user userId="joe" lastName="Reader">
+    <review bookId="0" rating="3" />
+    <review bookId="9" rating="3" />
+    <review bookId="11" rating="5" />
+    <review bookId="14" rating="5" />
+    <review bookId="16" rating="0" />
+    <review bookId="17" rating="0" />
+    <review bookId="18" rating="3" />
+    <review bookId="20" rating="0" />
+    <review bookId="22" rating="3" />
+    <review bookId="27" rating="3" />
+    <review bookId="28" rating="3" />
+    <review bookId="30" rating="5" />
+    <review bookId="31" rating="3" />
+    <review bookId="32" rating="0" />
+    <review bookId="33" rating="3" />
+    <review bookId="35" rating="0" />
+    <review bookId="37" rating="3" />
+    <review bookId="38" rating="0" />
+    <review bookId="41" rating="5" />
+    <review bookId="42" rating="3" />
+    <review bookId="44" rating="5" />
+    <review bookId="46" rating="0" />
+    <review bookId="49" rating="0" />
+    <review bookId="50" rating="5" />
+  </user>
+  <user userId="Priscilla" lastName="Reader">
+    <review bookId="0" rating="5" />
+    <review bookId="6" rating="5" />
+    <review bookId="11" rating="3" />
+    <review bookId="12" rating="3" />
+    <review bookId="14" rating="0" />
+    <review bookId="22" rating="3" />
+    <review bookId="23" rating="5" />
+    <review bookId="31" rating="0" />
+    <review bookId="33" rating="3" />
+    <review bookId="37" rating="5" />
+    <review bookId="49" rating="-3" />
+    <review bookId="50" rating="0" />
+    <review bookId="52" rating="0" />
+    <review bookId="54" rating="-3" />
+  </user>
+  <user userId="Harry" lastName="Potter">
+    <review bookId="9" rating="-5" />
+    <review bookId="11" rating="0" />
+    <review bookId="18" rating="0" />
+    <review bookId="27" rating="0" />
+    <review bookId="28" rating="0" />
+    <review bookId="37" rating="3" />
+    <review bookId="42" rating="5" />
+    <review bookId="49" rating="3" />
+  </user>
+  <user userId="I." lastName="Ned">
+    <review bookId="9" rating="0" />
+    <review bookId="18" rating="3" />
+    <review bookId="23" rating="-3" />
+    <review bookId="30" rating="0" />
+    <review bookId="31" rating="0" />
+    <review bookId="35" rating="-3" />
+    <review bookId="38" rating="3" />
+    <review bookId="39" rating="0" />
+    <review bookId="41" rating="3" />
+    <review bookId="42" rating="0" />
+    <review bookId="48" rating="3" />
+    <review bookId="54" rating="-3" />
+  </user>
+  <user userId="ender" lastName="Reader">
+    <review bookId="0" rating="5" />
+    <review bookId="6" rating="5" />
+    <review bookId="9" rating="3" />
+    <review bookId="11" rating="5" />
+    <review bookId="17" rating="0" />
+    <review bookId="32" rating="3" />
+    <review bookId="49" rating="5" />
+    <review bookId="50" rating="3" />
+    <review bookId="52" rating="5" />
+    <review bookId="54" rating="3" />
+  </user>
+  <user userId="Apollo" lastName="Reader">
+    <review bookId="2" rating="5" />
+    <review bookId="7" rating="3" />
+    <review bookId="10" rating="0" />
+    <review bookId="14" rating="-5" />
+    <review bookId="23" rating="5" />
+    <review bookId="30" rating="3" />
+    <review bookId="31" rating="-5" />
+    <review bookId="37" rating="3" />
+    <review bookId="42" rating="3" />
+    <review bookId="43" rating="3" />
+    <review bookId="48" rating="3" />
+    <review bookId="50" rating="-3" />
+    <review bookId="54" rating="0" />
+  </user>
+  <user userId="Zax" lastName="Reader">
+    <review bookId="1" rating="3" />
+    <review bookId="8" rating="0" />
+    <review bookId="19" rating="5" />
+    <review bookId="31" rating="5" />
+    <review bookId="38" rating="5" />
+    <review bookId="42" rating="5" />
+    <review bookId="46" rating="3" />
+    <review bookId="49" rating="5" />
+    <review bookId="50" rating="5" />
+    <review bookId="54" rating="0" />
+  </user>
+  <user userId="Jaluka" lastName="Reader">
+    <review bookId="1" rating="5" />
+    <review bookId="9" rating="0" />
+    <review bookId="23" rating="3" />
+    <review bookId="30" rating="5" />
+    <review bookId="37" rating="3" />
+    <review bookId="48" rating="5" />
+  </user>
+  <user userId="Sanity" lastName="Reader">
+    <review bookId="18" rating="5" />
+    <review bookId="28" rating="5" />
+    <review bookId="31" rating="5" />
+    <review bookId="33" rating="3" />
+    <review bookId="42" rating="5" />
+  </user>
+  <user userId="Brix" lastName="Reader">
+    <review bookId="0" rating="0" />
+    <review bookId="14" rating="0" />
+    <review bookId="18" rating="0" />
+    <review bookId="23" rating="3" />
+    <review bookId="30" rating="-3" />
+    <review bookId="37" rating="3" />
+    <review bookId="54" rating="3" />
+  </user>
+  <user userId="sage32" lastName="Reader">
+    <review bookId="7" rating="-3" />
+    <review bookId="9" rating="3" />
+    <review bookId="10" rating="0" />
+    <review bookId="18" rating="3" />
+    <review bookId="19" rating="5" />
+    <review bookId="23" rating="3" />
+    <review bookId="30" rating="3" />
+    <review bookId="35" rating="-5" />
+    <review bookId="39" rating="0" />
+    <review bookId="42" rating="5" />
+    <review bookId="43" rating="3" />
+    <review bookId="44" rating="3" />
+    <review bookId="48" rating="0" />
+    <review bookId="54" rating="5" />
+  </user>
+  <user userId="clipper" lastName="Reader">
+    <review bookId="0" rating="5" />
+    <review bookId="7" rating="0" />
+    <review bookId="8" rating="3" />
+    <review bookId="18" rating="-3" />
+    <review bookId="30" rating="0" />
+    <review bookId="31" rating="5" />
+    <review bookId="33" rating="3" />
+    <review bookId="41" rating="5" />
+    <review bookId="42" rating="5" />
+    <review bookId="48" rating="3" />
+    <review bookId="49" rating="5" />
+    <review bookId="50" rating="5" />
+  </user>
+  <user userId="YJAM" lastName="Reader">
+    <review bookId="31" rating="0" />
+    <review bookId="35" rating="3" />
+    <review bookId="38" rating="3" />
+    <review bookId="43" rating="3" />
+    <review bookId="49" rating="5" />
+    <review bookId="50" rating="5" />
+    <review bookId="52" rating="5" />
+  </user>
+  <user userId="Martin" lastName="Reader">
+    <review bookId="0" rating="0" />
+    <review bookId="1" rating="-3" />
+    <review bookId="11" rating="3" />
+    <review bookId="12" rating="3" />
+    <review bookId="14" rating="-3" />
+    <review bookId="18" rating="-3" />
+    <review bookId="37" rating="-3" />
+    <review bookId="38" rating="-3" />
+    <review bookId="42" rating="5" />
+    <review bookId="48" rating="0" />
+    <review bookId="49" rating="3" />
+    <review bookId="50" rating="5" />
+    <review bookId="52" rating="-3" />
+  </user>
+  <user userId="Michael" lastName="Reader">
+    <review bookId="0" rating="5" />
+    <review bookId="6" rating="5" />
+    <review bookId="9" rating="0" />
+    <review bookId="11" rating="5" />
+    <review bookId="12" rating="3" />
+    <review bookId="17" rating="3" />
+    <review bookId="23" rating="3" />
+    <review bookId="25" rating="5" />
+    <review bookId="30" rating="5" />
+    <review bookId="31" rating="5" />
+    <review bookId="32" rating="5" />
+    <review bookId="33" rating="3" />
+    <review bookId="37" rating="3" />
+    <review bookId="41" rating="5" />
+    <review bookId="42" rating="3" />
+    <review bookId="47" rating="5" />
+    <review bookId="49" rating="5" />
+    <review bookId="50" rating="3" />
+  </user>
+  <user userId="Strongbad" lastName="Reader">
+    <review bookId="0" rating="5" />
+    <review bookId="2" rating="-3" />
+    <review bookId="4" rating="-3" />
+    <review bookId="7" rating="-5" />
+    <review bookId="23" rating="-5" />
+    <review bookId="31" rating="3" />
+    <review bookId="33" rating="3" />
+    <review bookId="37" rating="-5" />
+    <review bookId="39" rating="0" />
+    <review bookId="41" rating="5" />
+    <review bookId="42" rating="5" />
+    <review bookId="43" rating="0" />
+    <review bookId="47" rating="5" />
+    <review bookId="49" rating="0" />
+    <review bookId="50" rating="0" />
+    <review bookId="54" rating="3" />
+  </user>
+  <user userId="Brian" lastName="Reader">
+    <review bookId="0" rating="5" />
+    <review bookId="9" rating="3" />
+    <review bookId="14" rating="5" />
+    <review bookId="19" rating="5" />
+    <review bookId="23" rating="5" />
+    <review bookId="25" rating="3" />
+    <review bookId="30" rating="0" />
+    <review bookId="35" rating="0" />
+    <review bookId="37" rating="5" />
+    <review bookId="38" rating="3" />
+    <review bookId="39" rating="5" />
+    <review bookId="42" rating="5" />
+    <review bookId="43" rating="3" />
+    <review bookId="49" rating="3" />
+    <review bookId="50" rating="5" />
+  </user>
+  <user userId="Douglas" lastName="Anderson">
+    <review bookId="0" rating="5" />
+    <review bookId="9" rating="3" />
+    <review bookId="14" rating="5" />
+    <review bookId="19" rating="5" />
+    <review bookId="23" rating="5" />
+    <review bookId="25" rating="3" />
+    <review bookId="30" rating="0" />
+    <review bookId="35" rating="0" />
+    <review bookId="37" rating="5" />
+    <review bookId="38" rating="3" />
+    <review bookId="39" rating="5" />
+    <review bookId="42" rating="5" />
+    <review bookId="43" rating="3" />
+    <review bookId="49" rating="3" />
+    <review bookId="50" rating="5" />
+  </user>
+  <user userId="chrispeh" lastName="Reader">
+    <review bookId="30" rating="3" />
+    <review bookId="33" rating="-5" />
+  </user>
+  <user userId="Rudy" lastName="A">
+    <review bookId="30" rating="3" />
+    <review bookId="33" rating="0" />
+    <review bookId="39" rating="5" />
+    <review bookId="42" rating="3" />
+  </user>
+  <user userId="McLovin" lastName="Reader">
+    <review bookId="9" rating="3" />
+    <review bookId="18" rating="5" />
+    <review bookId="30" rating="-5" />
+    <review bookId="31" rating="3" />
+    <review bookId="33" rating="-5" />
+    <review bookId="42" rating="-3" />
+    <review bookId="49" rating="3" />
+  </user>
+  <user userId="Mike" lastName="Williams">
+    <review bookId="0" rating="3" />
+    <review bookId="2" rating="5" />
+    <review bookId="6" rating="5" />
+    <review bookId="9" rating="5" />
+    <review bookId="11" rating="5" />
+    <review bookId="13" rating="5" />
+    <review bookId="16" rating="3" />
+    <review bookId="18" rating="3" />
+    <review bookId="30" rating="0" />
+    <review bookId="31" rating="0" />
+    <review bookId="33" rating="5" />
+    <review bookId="35" rating="3" />
+    <review bookId="38" rating="5" />
+    <review bookId="39" rating="5" />
+    <review bookId="41" rating="5" />
+    <review bookId="42" rating="5" />
+    <review bookId="43" rating="3" />
+    <review bookId="49" rating="0" />
+    <review bookId="50" rating="-3" />
+  </user>
+  <user userId="Dude" lastName="Reader">
+    <review bookId="16" rating="3" />
+    <review bookId="30" rating="3" />
+    <review bookId="42" rating="3" />
+    <review bookId="43" rating="3" />
+    <review bookId="46" rating="5" />
+    <review bookId="50" rating="-3" />
+  </user>
+  <user userId="Hideo" lastName="Reader">
+    <review bookId="2" rating="-3" />
+    <review bookId="15" rating="0" />
+    <review bookId="30" rating="0" />
+    <review bookId="31" rating="3" />
+    <review bookId="33" rating="-5" />
+    <review bookId="38" rating="5" />
+    <review bookId="42" rating="5" />
+    <review bookId="43" rating="5" />
+    <review bookId="49" rating="5" />
+    <review bookId="50" rating="5" />
+  </user>
+  <user userId="Trudy" lastName="Ann">
+    <review bookId="30" rating="-3" />
+    <review bookId="33" rating="-5" />
+    <review bookId="39" rating="0" />
+    <review bookId="42" rating="3" />
+    <review bookId="43" rating="0" />
+  </user>
+  <user userId="Donna" lastName="Wang">
+    <review bookId="30" rating="0" />
+    <review bookId="33" rating="0" />
+    <review bookId="38" rating="3" />
+    <review bookId="42" rating="3" />
+    <review bookId="43" rating="3" />
+    <review bookId="50" rating="3" />
+  </user>
+  <user userId="Anna-Carol" lastName="Reader">
+    <review bookId="2" rating="3" />
+    <review bookId="7" rating="0" />
+    <review bookId="30" rating="0" />
+    <review bookId="31" rating="3" />
+    <review bookId="35" rating="5" />
+    <review bookId="39" rating="3" />
+    <review bookId="43" rating="3" />
+    <review bookId="50" rating="3" />
+  </user>
+  <user userId="SubRia" lastName="Reader">
+    <review bookId="9" rating="5" />
+    <review bookId="16" rating="5" />
+    <review bookId="18" rating="3" />
+    <review bookId="19" rating="-5" />
+    <review bookId="30" rating="0" />
+    <review bookId="31" rating="3" />
+    <review bookId="32" rating="3" />
+    <review bookId="33" rating="-3" />
+    <review bookId="38" rating="3" />
+    <review bookId="39" rating="3" />
+    <review bookId="40" rating="0" />
+    <review bookId="41" rating="-3" />
+    <review bookId="49" rating="3" />
+    <review bookId="50" rating="3" />
+  </user>
+  <user userId="Ella" lastName="Reader">
+    <review bookId="7" rating="3" />
+    <review bookId="10" rating="3" />
+    <review bookId="11" rating="0" />
+    <review bookId="16" rating="3" />
+    <review bookId="19" rating="3" />
+    <review bookId="30" rating="-5" />
+    <review bookId="31" rating="0" />
+    <review bookId="33" rating="-5" />
+    <review bookId="35" rating="5" />
+    <review bookId="38" rating="0" />
+    <review bookId="41" rating="3" />
+    <review bookId="43" rating="5" />
+  </user>
+  <user userId="Leslie" lastName="Reader">
+    <review bookId="0" rating="5" />
+    <review bookId="9" rating="5" />
+    <review bookId="30" rating="5" />
+    <review bookId="32" rating="5" />
+    <review bookId="33" rating="-5" />
+    <review bookId="38" rating="5" />
+    <review bookId="42" rating="-5" />
+    <review bookId="43" rating="5" />
+    <review bookId="49" rating="5" />
+    <review bookId="50" rating="5" />
+  </user>
+  <user userId="Sam" lastName="Reader">
+    <review bookId="1" rating="3" />
+    <review bookId="5" rating="0" />
+    <review bookId="9" rating="3" />
+    <review bookId="30" rating="0" />
+    <review bookId="33" rating="-3" />
+    <review bookId="51" rating="0" />
+  </user>
+  <user userId="Cedric" lastName="Jones">
+    <review bookId="9" rating="3" />
+    <review bookId="12" rating="5" />
+    <review bookId="18" rating="5" />
+    <review bookId="30" rating="0" />
+    <review bookId="32" rating="5" />
+    <review bookId="33" rating="-5" />
+    <review bookId="39" rating="3" />
+    <review bookId="43" rating="5" />
+    <review bookId="52" rating="5" />
+  </user>
+  <user userId="Don" lastName="Wang">
+    <review bookId="30" rating="0" />
+    <review bookId="33" rating="0" />
+    <review bookId="38" rating="3" />
+    <review bookId="42" rating="3" />
+    <review bookId="43" rating="3" />
+    <review bookId="50" rating="3" />
+  </user>
+  <user userId="McLean" lastName="Reader">
+    <review bookId="9" rating="5" />
+    <review bookId="16" rating="3" />
+    <review bookId="23" rating="5" />
+    <review bookId="30" rating="5" />
+    <review bookId="33" rating="3" />
+    <review bookId="37" rating="5" />
+    <review bookId="38" rating="5" />
+    <review bookId="42" rating="5" />
+    <review bookId="43" rating="5" />
+    <review bookId="50" rating="5" />
+    <review bookId="52" rating="0" />
+    <review bookId="54" rating="5" />
+  </user>
+  <user userId="Shannon" lastName="Reader">
+    <review bookId="0" rating="3" />
+    <review bookId="9" rating="5" />
+    <review bookId="10" rating="5" />
+    <review bookId="16" rating="5" />
+    <review bookId="19" rating="5" />
+    <review bookId="27" rating="5" />
+    <review bookId="31" rating="5" />
+    <review bookId="32" rating="5" />
+    <review bookId="33" rating="-5" />
+    <review bookId="35" rating="5" />
+    <review bookId="38" rating="5" />
+    <review bookId="40" rating="5" />
+    <review bookId="41" rating="5" />
+    <review bookId="42" rating="5" />
+    <review bookId="43" rating="5" />
+    <review bookId="46" rating="5" />
+    <review bookId="49" rating="5" />
+    <review bookId="50" rating="5" />
+    <review bookId="52" rating="5" />
+  </user>
+  <user userId="Joshua" lastName="Reader">
+    <review bookId="7" rating="0" />
+    <review bookId="10" rating="-3" />
+    <review bookId="30" rating="3" />
+    <review bookId="33" rating="-5" />
+    <review bookId="35" rating="-5" />
+    <review bookId="42" rating="5" />
+  </user>
+  <user userId="Jeremy" lastName="Reader">
+    <review bookId="10" rating="3" />
+    <review bookId="31" rating="3" />
+    <review bookId="33" rating="-5" />
+    <review bookId="41" rating="3" />
+  </user>
+  <user userId="Pablo" lastName="Sanchez">
+    <review bookId="33" rating="3" />
+    <review bookId="38" rating="3" />
+    <review bookId="43" rating="0" />
+    <review bookId="46" rating="3" />
+  </user>
+  <user userId="Scream" lastName="Reader">
+    <review bookId="33" rating="-5" />
+    <review bookId="35" rating="-5" />
+    <review bookId="42" rating="3" />
+  </user>
+  <user userId="ROFLOL" lastName="Reader">
+    <review bookId="0" rating="5" />
+    <review bookId="9" rating="3" />
+    <review bookId="10" rating="3" />
+    <review bookId="11" rating="3" />
+    <review bookId="16" rating="5" />
+    <review bookId="19" rating="5" />
+    <review bookId="27" rating="5" />
+    <review bookId="31" rating="5" />
+    <review bookId="32" rating="5" />
+    <review bookId="33" rating="-5" />
+    <review bookId="35" rating="5" />
+    <review bookId="38" rating="5" />
+    <review bookId="39" rating="5" />
+    <review bookId="40" rating="5" />
+    <review bookId="41" rating="5" />
+    <review bookId="42" rating="5" />
+    <review bookId="43" rating="5" />
+    <review bookId="49" rating="5" />
+    <review bookId="50" rating="5" />
+  </user>
+  <user userId="Albus" lastName="Dumbledore">
+    <review bookId="7" rating="0" />
+    <review bookId="10" rating="-3" />
+    <review bookId="30" rating="3" />
+    <review bookId="33" rating="-3" />
+    <review bookId="35" rating="-5" />
+    <review bookId="42" rating="5" />
+  </user>
+  <user userId="Alexandra" lastName="Reader">
+    <review bookId="10" rating="3" />
+    <review bookId="31" rating="3" />
+    <review bookId="33" rating="-5" />
+    <review bookId="41" rating="3" />
+  </user>
+  <user userId="NaRwHaLs" lastName="Reader">
+    <review bookId="0" rating="5" />
+    <review bookId="11" rating="5" />
+    <review bookId="17" rating="5" />
+    <review bookId="27" rating="5" />
+    <review bookId="31" rating="3" />
+    <review bookId="33" rating="-5" />
+    <review bookId="36" rating="5" />
+    <review bookId="38" rating="5" />
+    <review bookId="42" rating="-3" />
+    <review bookId="43" rating="3" />
+    <review bookId="49" rating="5" />
+    <review bookId="50" rating="5" />
+  </user>
+  <user userId="J-Rok" lastName="Reader">
+    <review bookId="0" rating="5" />
+    <review bookId="33" rating="-3" />
+    <review bookId="35" rating="-5" />
+    <review bookId="42" rating="-5" />
+    <review bookId="46" rating="0" />
+  </user>
+  <user userId="snoosh" lastName="Reader">
+    <review bookId="18" rating="0" />
+    <review bookId="23" rating="5" />
+    <review bookId="31" rating="5" />
+    <review bookId="33" rating="0" />
+    <review bookId="38" rating="3" />
+    <review bookId="39" rating="5" />
+    <review bookId="41" rating="-3" />
+    <review bookId="42" rating="5" />
+    <review bookId="43" rating="3" />
+    <review bookId="46" rating="-5" />
+    <review bookId="49" rating="5" />
+    <review bookId="50" rating="5" />
+  </user>
+  <user userId="Huxil" lastName="Reader">
+    <review bookId="31" rating="0" />
+    <review bookId="32" rating="3" />
+    <review bookId="50" rating="3" />
+    <review bookId="52" rating="0" />
+  </user>
+  <user userId="hidan" lastName="Reader">
+    <review bookId="12" rating="3" />
+    <review bookId="27" rating="5" />
+    <review bookId="28" rating="5" />
+    <review bookId="31" rating="3" />
+    <review bookId="33" rating="5" />
+    <review bookId="38" rating="5" />
+    <review bookId="42" rating="5" />
+    <review bookId="43" rating="5" />
+    <review bookId="44" rating="5" />
+    <review bookId="49" rating="5" />
+    <review bookId="50" rating="5" />
+  </user>
+  <user userId="Leah" lastName="Reader">
+    <review bookId="27" rating="3" />
+    <review bookId="44" rating="0" />
+  </user>
+  <user userId="Boxxy" lastName="Reader">
+    <review bookId="28" rating="5" />
+    <review bookId="30" rating="5" />
+    <review bookId="33" rating="5" />
+    <review bookId="39" rating="5" />
+  </user>
+  <user userId="Rosanna" lastName="Reader">
+    <review bookId="9" rating="5" />
+    <review bookId="10" rating="5" />
+    <review bookId="11" rating="3" />
+    <review bookId="14" rating="-3" />
+    <review bookId="18" rating="0" />
+    <review bookId="27" rating="0" />
+    <review bookId="30" rating="0" />
+    <review bookId="31" rating="5" />
+    <review bookId="33" rating="0" />
+    <review bookId="35" rating="5" />
+    <review bookId="42" rating="5" />
+    <review bookId="43" rating="5" />
+    <review bookId="50" rating="-3" />
+  </user>
+  <user userId="Claire" lastName="Reader">
+    <review bookId="0" rating="5" />
+    <review bookId="1" rating="3" />
+    <review bookId="7" rating="5" />
+    <review bookId="9" rating="3" />
+    <review bookId="10" rating="0" />
+    <review bookId="14" rating="0" />
+    <review bookId="16" rating="0" />
+    <review bookId="18" rating="3" />
+    <review bookId="23" rating="-3" />
+    <review bookId="25" rating="5" />
+    <review bookId="30" rating="5" />
+    <review bookId="31" rating="5" />
+    <review bookId="33" rating="0" />
+    <review bookId="35" rating="-5" />
+    <review bookId="36" rating="5" />
+    <review bookId="38" rating="3" />
+    <review bookId="39" rating="3" />
+    <review bookId="41" rating="5" />
+    <review bookId="42" rating="5" />
+    <review bookId="43" rating="5" />
+    <review bookId="49" rating="5" />
+    <review bookId="50" rating="5" />
+    <review bookId="52" rating="0" />
+    <review bookId="54" rating="0" />
+  </user>
+  <user userId="David" lastName="Reader">
+    <review bookId="16" rating="-5" />
+    <review bookId="38" rating="0" />
+    <review bookId="41" rating="5" />
+    <review bookId="42" rating="0" />
+    <review bookId="54" rating="5" />
+  </user>
+  <user userId="Zachary" lastName="Reader">
+    <review bookId="16" rating="0" />
+    <review bookId="27" rating="5" />
+    <review bookId="38" rating="3" />
+    <review bookId="41" rating="0" />
+    <review bookId="43" rating="5" />
+    <review bookId="44" rating="5" />
+    <review bookId="50" rating="5" />
+  </user>
+  <user userId="ParseClaws" lastName="Reader">
+    <review bookId="0" rating="5" />
+    <review bookId="1" rating="5" />
+    <review bookId="2" rating="3" />
+    <review bookId="9" rating="-5" />
+    <review bookId="11" rating="3" />
+    <review bookId="14" rating="3" />
+    <review bookId="18" rating="3" />
+    <review bookId="23" rating="5" />
+    <review bookId="25" rating="5" />
+    <review bookId="27" rating="0" />
+    <review bookId="28" rating="0" />
+    <review bookId="30" rating="3" />
+    <review bookId="31" rating="0" />
+    <review bookId="35" rating="-5" />
+    <review bookId="37" rating="5" />
+    <review bookId="42" rating="3" />
+    <review bookId="43" rating="3" />
+    <review bookId="46" rating="3" />
+    <review bookId="54" rating="-3" />
+  </user>
+  <user userId="Tiffany" lastName="Reader">
+    <review bookId="0" rating="3" />
+    <review bookId="3" rating="0" />
+    <review bookId="7" rating="-3" />
+    <review bookId="9" rating="5" />
+    <review bookId="10" rating="-3" />
+    <review bookId="14" rating="3" />
+    <review bookId="16" rating="3" />
+    <review bookId="18" rating="0" />
+    <review bookId="19" rating="3" />
+    <review bookId="27" rating="-5" />
+    <review bookId="28" rating="0" />
+    <review bookId="30" rating="5" />
+    <review bookId="31" rating="5" />
+    <review bookId="35" rating="-5" />
+    <review bookId="38" rating="0" />
+    <review bookId="39" rating="3" />
+    <review bookId="40" rating="5" />
+    <review bookId="41" rating="3" />
+    <review bookId="42" rating="5" />
+    <review bookId="43" rating="5" />
+    <review bookId="46" rating="-3" />
+    <review bookId="49" rating="5" />
+    <review bookId="50" rating="5" />
+    <review bookId="51" rating="3" />
+    <review bookId="52" rating="5" />
+    <review bookId="54" rating="3" />
+  </user>
+  <user userId="Sidney" lastName="Reader">
+    <review bookId="14" rating="0" />
+    <review bookId="16" rating="3" />
+    <review bookId="18" rating="3" />
+    <review bookId="23" rating="0" />
+    <review bookId="27" rating="5" />
+    <review bookId="28" rating="5" />
+    <review bookId="31" rating="3" />
+    <review bookId="33" rating="3" />
+    <review bookId="38" rating="5" />
+    <review bookId="39" rating="5" />
+    <review bookId="42" rating="5" />
+    <review bookId="44" rating="3" />
+    <review bookId="46" rating="3" />
+    <review bookId="49" rating="5" />
+    <review bookId="50" rating="5" />
+  </user>
+  <user userId="Tony" lastName="Reader">
+    <review bookId="0" rating="-5" />
+    <review bookId="1" rating="-5" />
+    <review bookId="2" rating="-5" />
+    <review bookId="3" rating="-5" />
+    <review bookId="4" rating="-5" />
+    <review bookId="5" rating="-5" />
+    <review bookId="6" rating="-5" />
+    <review bookId="7" rating="0" />
+    <review bookId="8" rating="0" />
+    <review bookId="9" rating="-5" />
+    <review bookId="10" rating="-5" />
+    <review bookId="11" rating="0" />
+    <review bookId="12" rating="0" />
+    <review bookId="13" rating="3" />
+    <review bookId="14" rating="5" />
+    <review bookId="15" rating="-5" />
+    <review bookId="16" rating="0" />
+    <review bookId="17" rating="0" />
+    <review bookId="18" rating="5" />
+    <review bookId="19" rating="0" />
+    <review bookId="20" rating="-5" />
+    <review bookId="21" rating="-5" />
+    <review bookId="22" rating="-5" />
+    <review bookId="23" rating="0" />
+    <review bookId="24" rating="0" />
+    <review bookId="25" rating="-5" />
+    <review bookId="26" rating="0" />
+    <review bookId="27" rating="-5" />
+    <review bookId="28" rating="0" />
+    <review bookId="29" rating="0" />
+    <review bookId="30" rating="3" />
+    <review bookId="36" rating="3" />
+    <review bookId="40" rating="3" />
+    <review bookId="43" rating="-3" />
+    <review bookId="45" rating="-5" />
+    <review bookId="46" rating="-5" />
+    <review bookId="47" rating="-5" />
+    <review bookId="49" rating="5" />
+    <review bookId="50" rating="5" />
+    <review bookId="51" rating="0" />
+    <review bookId="52" rating="0" />
+    <review bookId="53" rating="0" />
+    <review bookId="54" rating="0" />
+  </user>
+  <user userId="Mark" lastName="Reader">
+    <review bookId="0" rating="5" />
+    <review bookId="1" rating="3" />
+    <review bookId="9" rating="3" />
+    <review bookId="11" rating="5" />
+    <review bookId="14" rating="3" />
+    <review bookId="18" rating="0" />
+    <review bookId="23" rating="3" />
+    <review bookId="27" rating="3" />
+    <review bookId="28" rating="3" />
+    <review bookId="30" rating="5" />
+    <review bookId="31" rating="0" />
+    <review bookId="33" rating="3" />
+    <review bookId="38" rating="3" />
+    <review bookId="54" rating="5" />
+  </user>
+  <user userId="NuNu" lastName="Reader">
+    <review bookId="7" rating="0" />
+    <review bookId="16" rating="3" />
+    <review bookId="18" rating="3" />
+    <review bookId="30" rating="3" />
+    <review bookId="33" rating="0" />
+    <review bookId="35" rating="5" />
+    <review bookId="41" rating="0" />
+    <review bookId="42" rating="3" />
+    <review bookId="43" rating="3" />
+  </user>
+  <user userId="Hamza" lastName="ALi">
+    <review bookId="7" rating="-5" />
+    <review bookId="9" rating="5" />
+    <review bookId="10" rating="0" />
+    <review bookId="14" rating="0" />
+    <review bookId="16" rating="5" />
+    <review bookId="18" rating="-3" />
+    <review bookId="20" rating="3" />
+    <review bookId="27" rating="-5" />
+    <review bookId="30" rating="-3" />
+    <review bookId="31" rating="5" />
+    <review bookId="33" rating="5" />
+    <review bookId="35" rating="3" />
+    <review bookId="38" rating="0" />
+    <review bookId="40" rating="3" />
+    <review bookId="41" rating="0" />
+    <review bookId="42" rating="3" />
+    <review bookId="43" rating="5" />
+    <review bookId="49" rating="0" />
+    <review bookId="50" rating="-5" />
+  </user>
+  <user userId="dencellia" lastName="Reader">
+    <review bookId="18" rating="-3" />
+    <review bookId="27" rating="0" />
+    <review bookId="28" rating="3" />
+    <review bookId="30" rating="0" />
+    <review bookId="35" rating="3" />
+    <review bookId="42" rating="5" />
+    <review bookId="44" rating="3" />
+    <review bookId="49" rating="-3" />
+    <review bookId="50" rating="3" />
+  </user>
+  <user userId="Nathan" lastName="Reader">
+    <review bookId="7" rating="-5" />
+    <review bookId="9" rating="5" />
+    <review bookId="10" rating="0" />
+    <review bookId="14" rating="0" />
+    <review bookId="16" rating="5" />
+    <review bookId="18" rating="-3" />
+    <review bookId="20" rating="3" />
+    <review bookId="27" rating="-5" />
+    <review bookId="30" rating="-3" />
+    <review bookId="31" rating="5" />
+    <review bookId="33" rating="5" />
+    <review bookId="35" rating="3" />
+    <review bookId="38" rating="0" />
+    <review bookId="40" rating="3" />
+    <review bookId="41" rating="0" />
+    <review bookId="42" rating="3" />
+    <review bookId="43" rating="5" />
+    <review bookId="49" rating="0" />
+    <review bookId="50" rating="-5" />
+  </user>
+  <user userId="James" lastName="Reader">
+    <review bookId="0" rating="3" />
+    <review bookId="1" rating="0" />
+    <review bookId="6" rating="3" />
+    <review bookId="7" rating="-3" />
+    <review bookId="10" rating="0" />
+    <review bookId="18" rating="0" />
+    <review bookId="19" rating="0" />
+    <review bookId="23" rating="-5" />
+    <review bookId="27" rating="-5" />
+    <review bookId="28" rating="-5" />
+    <review bookId="30" rating="-3" />
+    <review bookId="31" rating="5" />
+    <review bookId="33" rating="3" />
+    <review bookId="35" rating="-5" />
+    <review bookId="39" rating="5" />
+    <review bookId="41" rating="5" />
+    <review bookId="42" rating="0" />
+    <review bookId="43" rating="3" />
+    <review bookId="49" rating="-5" />
+    <review bookId="50" rating="5" />
+    <review bookId="52" rating="-3" />
+    <review bookId="54" rating="5" />
+  </user>
+  <user userId="KeeLed" lastName="Reader">
+    <review bookId="3" rating="5" />
+    <review bookId="7" rating="5" />
+    <review bookId="9" rating="5" />
+    <review bookId="10" rating="5" />
+    <review bookId="16" rating="5" />
+    <review bookId="17" rating="-3" />
+    <review bookId="18" rating="-3" />
+    <review bookId="30" rating="0" />
+    <review bookId="35" rating="5" />
+    <review bookId="38" rating="5" />
+    <review bookId="40" rating="5" />
+    <review bookId="41" rating="5" />
+    <review bookId="42" rating="5" />
+    <review bookId="43" rating="5" />
+    <review bookId="49" rating="3" />
+    <review bookId="50" rating="0" />
+  </user>
+  <user userId="Megan" lastName="Reader">
+    <review bookId="0" rating="5" />
+    <review bookId="1" rating="5" />
+    <review bookId="9" rating="3" />
+    <review bookId="11" rating="5" />
+    <review bookId="14" rating="0" />
+    <review bookId="16" rating="5" />
+    <review bookId="18" rating="0" />
+    <review bookId="19" rating="5" />
+    <review bookId="25" rating="0" />
+    <review bookId="27" rating="5" />
+    <review bookId="30" rating="3" />
+    <review bookId="31" rating="5" />
+    <review bookId="32" rating="5" />
+    <review bookId="35" rating="5" />
+    <review bookId="38" rating="3" />
+    <review bookId="41" rating="3" />
+    <review bookId="42" rating="5" />
+    <review bookId="43" rating="5" />
+    <review bookId="49" rating="5" />
+    <review bookId="50" rating="5" />
+    <review bookId="52" rating="5" />
+  </user>
+</userReviews>

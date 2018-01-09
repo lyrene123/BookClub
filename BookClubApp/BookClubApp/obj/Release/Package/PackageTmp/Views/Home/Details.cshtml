@@ -1,0 +1,105 @@
+﻿@model BookClubApp.Models.ViewModel
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Book</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Book.Title)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Book.Title)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Book.Authors)
+        </dt>
+
+        <dd>
+            @foreach (var author in Model.Book.Authors)
+            {
+                @Html.ActionLink(@author.FirstName + " " + @author.LastName, "AuthorDetails", new { id = author.AuthorId }) 
+                <span> | </span>
+            }
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Book.Description)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Book.Description)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Book.Views)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Book.Views)
+        </dd>
+
+        <dt>
+            Average Rating
+        </dt>
+
+        <dd>
+            <p>@Model.Average / 5 stars</p>
+        </dd>
+
+        <dt>
+           Number of Reviews
+        </dt>
+
+        <dd>
+            @Model.Book.Reviews.Count()
+        </dd>
+
+
+        <dt>
+            Reviews
+        </dt>
+
+        <dd>
+            @foreach (var review in Model.Book.Reviews)
+            {
+                <h4>@review.UserName</h4>
+                switch (review?.Rating)
+                {
+                    case -5: <p>Rating: 1</p>; break;
+                    case -3: <p>Rating: 2</p>; break;
+                    case 0: <p>Rating: 3</p>; break;
+                    case 3: <p>Rating: 4</p>; break;
+                    case 5: <p>Rating: 5</p>; break;
+                    default: <p>Not rated</p>; break;
+                }
+                if(review.Content == null)
+                {
+                    <p>No comment added</p>
+                }
+                else
+                {
+                    <p>@review.Content</p>
+                }
+                <br />
+            }
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Back to Home Page", "Index", "Home") 
+    
+    @if (User.Identity.IsAuthenticated)
+    {
+        <span> | </span>
+        @Html.ActionLink("Leave a review", "Create", "Reviews", new { id = Model.Book.BookId },null)
+    }
+</p>
